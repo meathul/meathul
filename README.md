@@ -1,8 +1,8 @@
-###- 👋 Hi, I’m Athul
-###- 👀 I’m interested in AI/ML
-###- 🌱 I’m currently learning python
-###- 💞️ I’m looking to collaborate on Projects
-###- 📫 How to reach me Instagram @me_athul._
+### - 👋 Hi, I’m Athul
+### - 👀 I’m interested in AI/ML
+### - 🌱 I’m currently learning python
+### - 💞️ I’m looking to collaborate on Projects
+### - 📫 How to reach me Instagram @me_athul._
 
 <!---
 meathul/meathul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
