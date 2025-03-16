@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meathul
+- 👋 Hi, I’m Athul
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
