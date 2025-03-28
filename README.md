@@ -1,7 +1,7 @@
 ### - 👋 Hi, I’m Athul
 ### - 👀 I’m interested in AI/ML
-### - 🌱 I’m currently learning python
-### - 💞 I’m looking to collaborate on Projects
+### -  I’m currently learning python
+### -  I’m looking to collaborate on Projects
 ### - 👯 How to reach me:  Instagram @me_athul._
 
 <!---
