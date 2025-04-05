@@ -5,7 +5,7 @@
 ### - 👯 How to reach me:  Instagram @me_athul._
 
 <!---
-meathul/meathul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meathul/meathul is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
