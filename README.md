@@ -1,4 +1,4 @@
-### - 👋 Hi, I’m Athul
+### -  Hi, I’m Athul
 ### -  I’m interested in AI/ML
 ### -  I’m currently learning python
 ### -  I’m looking to collaborate on Projects
